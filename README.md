@@ -7,12 +7,12 @@ Detail setup can be found on my other repo [solution-to-graphics.h](https://gith
 ```cmd
   D:.
 ├───.vscode
-├───Basic
-│   └───build
 └───Home
     ├───build
     └───src
 ```
+
+- Just `Ctrl+Shift+B` to run the build task you will get the executable file in build folder
 
 ## !mportant
 
