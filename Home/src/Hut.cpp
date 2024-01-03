@@ -9,7 +9,7 @@ int main()
     int stangle = 45, endangle = 50;
     int radius = 50;
     
-    char data[] = "C:\\MinGW\\lib\\libbgi.a"; //static file
+    char data[] = "C:\\TDM-GCC-32\\lib\\libbgi.a"; //static file
 
     initgraph(&gd, &gm, data);
     x = getmaxx(); // to get the co-ordinates i.e. x & y
